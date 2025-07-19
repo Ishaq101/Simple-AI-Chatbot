@@ -1,6 +1,8 @@
 # Simple-AI-Chatbot
 Simple AI Chatbot with streaming answer capability. 
 
+![alt text](images/UI.png)
+
 Prepare your gemini api key and set to `.env` file 
 
 Get your gemini api key [here](https://aistudio.google.com/apikey)

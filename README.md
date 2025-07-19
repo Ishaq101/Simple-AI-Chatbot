@@ -1,6 +1,12 @@
 # Simple-AI-Chatbot
 Simple AI Chatbot with streaming answer capability. 
 
+Prepare your gemini api key and set to `.env` file 
+
+Get your gemini api key [here](https://aistudio.google.com/apikey)
+
+inside your `.env` file:
+`GOOGLE_API_KEY="<your-api-key>"`
 
 1. Clonning repository
 `git clone "https://github.com/Ishaq101/Simple-AI-Chatbot.git"`

@@ -1,0 +1,16 @@
+[project]
+name = "service.aiengine.autograder"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "dotenv>=0.9.9",
+    "fastapi-sessions>=0.3.2",
+    "fastapi[standard]>=0.115.14",
+    "jsonpatch>=1.33",
+    "langchain>=0.3.26",
+    "langchain-google-genai>=2.1.8",
+    "langfuse==2.60.9",
+    "uvicorn>=0.35.0",
+]
